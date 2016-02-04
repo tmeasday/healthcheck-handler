@@ -1,7 +1,8 @@
 Package.describe({
   name: 'tmeasday:healthcheck-handler',
   version: '0.0.1',
-  summary: 'A connect handler to shortcircuit galaxy healthchecks'
+  summary: 'A connect handler to shortcircuit galaxy healthchecks',
+  documentation: null
 });
 
 Package.onUse(function(api) {
