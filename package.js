@@ -1,6 +1,6 @@
 Package.describe({
   name: 'tmeasday:healthcheck-handler',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'A connect handler to shortcircuit galaxy healthchecks',
   documentation: 'README.md',
   git: 'https://github.com/tmeasday/healthcheck-handler.git'
